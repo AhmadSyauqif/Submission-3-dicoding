@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <string name="movie">MOVIE</string>
+    <string name="tv">TV</string>
+    <string name="title_activity_main">Movie Catalogue</string>
+    <string name="desc_poster_movie">Poster</string>
+    <string name="change_language_settings">Change language setting</string>
+    <string name="title">Title</string>
+    <string name="tanggal_rilis">Release Date</string>
+    <string name="vote">Vote</string>
+    <string name="bahasa_asal">Original Language</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+</resources>

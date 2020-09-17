@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/colorPrimary"/>
+
+    <item android:gravity="center" android:width="100dp" android:height="100dp">
+        <bitmap
+            android:gravity="fill_horizontal|fill_vertical"
+            android:src="@drawable/gambar" />
+        <shape>
+            <gradient
+                android:startColor="#1e88e5"
+                android:centerColor="#673ab7"
+                android:endColor="#4527a0"
+                android:angle="45"
+                ></gradient>
+
+        </shape>
+    </item>
+
+</layer-list>
